@@ -54,8 +54,8 @@
 <p align="center">
  
  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-phone-100-most-used-icons-flaticons-lineal-color-flat-icons.png"/>
-    
-  </a>
+  Đặt hàng ngay để có những ưu đãi!!
+  
   <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
     <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
   </a>
