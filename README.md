@@ -2,9 +2,9 @@
 <h3 align="center">  </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/d-cute.png"/></p>
 
-# ✍ Phát triển hệ thống web (CT299)**
+ ✍ Phát triển hệ thống web (CT299)**
 
-# 🌱 Website bán điện thoại di động.
+ 🌱 Website bán điện thoại di động.
 
 
 ## 📫 Hãng điện thoại:
