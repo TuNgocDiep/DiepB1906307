@@ -30,12 +30,7 @@
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-camera-security-guard-flaticons-flat-flat-icons.png"/>
   <img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-camera-smart-home-wanicon-flat-wanicon.png"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/camera--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  
 </p>
 
 <table style="width:100%;">
