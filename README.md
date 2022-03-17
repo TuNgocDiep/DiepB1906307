@@ -25,7 +25,7 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-headphone-cyber-monday-flaticons-flat-flat-icons.png" width="48" height="48"/> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/camera--v1.png"/>
+  <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-clock-smartwatch-xnimrodx-blue-xnimrodx-5.png"/>
   <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-clock-health-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-camera-security-guard-flaticons-flat-flat-icons.png"/>
   <img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-camera-smart-home-wanicon-flat-wanicon.png"/>
