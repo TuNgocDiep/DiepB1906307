@@ -34,13 +34,11 @@
 </p>
 
 <table style="width:100%;">
-  ![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-# Paul Nguyen - Passionate Web Developer, Frontend Trainer
 
-- Open and friendly.
-- Love to learn new things, especially things related to Frontend stacks.
-- Enjoy working with ReactJS ❤
+- Mẫu mã đa dạng.
+- Giá cả hợp lý.
+- Mang đến khách hàng trải nghiệm tốt nhất ❤
 
 ## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
