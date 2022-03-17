@@ -25,7 +25,7 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-headphone-cyber-monday-flaticons-flat-flat-icons.png" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/camera--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
