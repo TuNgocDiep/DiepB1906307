@@ -19,7 +19,6 @@
     <img src="https://img.icons8.com/windows/32/000000/huawei-logo.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluency/48/000000/nokia-3310.png"/>
   </a>
 </p>
 
