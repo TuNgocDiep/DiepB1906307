@@ -44,23 +44,16 @@
 
 - Bảo hành trên mỗi sản phẩm.
 - Nhân viên kỹ thuật chuyên nghiệp.
-- Thông số kỹ thuật rõ ràng.
-- Hàng chính hãng.
-
-## Projects for teaching
-
-- : https://github.com/paulnguyen-mn/js-tic-tac-toe
-- Color matching game: https://github.com/paulnguyen-mn/color-matching-game
-- JS todo app: https://github.com/paulnguyen-mn/js-todo-app
-- Post UI: https://github.com/paulnguyen-mn/posts-ui
-- Post API: https://github.com/paulnguyen-mn/posts-api
+- Giao hàng tận nơi.
+- Đổi trả khi hàng lỗi và sự cố.
 
 </table>
 
 ## Khuyến mãi:
 
 <p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
+ 
+ <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-phone-100-most-used-icons-flaticons-lineal-color-flat-icons.png"/>
     
   </a>
   <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
