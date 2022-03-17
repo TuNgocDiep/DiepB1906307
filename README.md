@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋!Tôi tên Tu Ngoc Diep</h1>
+<h1 align="center">Xin chào 👋!Tôi tên Từ Ngọc Diệp</h1>
 <h3 align="center">  </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/d-cute.png"/></p>
 
@@ -54,7 +54,7 @@
 <p align="center">
  
  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-phone-100-most-used-icons-flaticons-lineal-color-flat-icons.png"/>
-  Đặt hàng ngay để có những ưu đãi!!
+  Đặt hàng ngay để có những ưu đãi hấp dẫn!!
 </p>
 
 
