@@ -2,9 +2,9 @@
 <h3 align="center">  </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/d-cute.png"/></p>
 
-## ✍ Phát triển hệ thống web (CT299)**
+# ✍ Phát triển hệ thống web (CT299)**
 
-## 🌱 Website bán điện thoại di động.
+# 🌱 Website bán điện thoại di động.
 
 
 ## 📫 Hãng điện thoại:
@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-# Khuyến mãi:
+## Khuyến mãi:
 
 <p align="center">
   <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
