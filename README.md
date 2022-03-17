@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào 👋!Tôi tên Tu Ngoc Diep</h1>
 <h3 align="center">  </h3>
-<p align="center"> <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/64/000000/external-computer-free-time-wanicon-two-tone-wanicon.png"/> </p>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/d-cute.png"/></p>
 
 - ✍ Phát triển hệ thống web (CT299)**
 
